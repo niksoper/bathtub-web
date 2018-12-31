@@ -1,0 +1,7 @@
+.vscode
+node_modules
+res
+www
+work
+jsconfig.json
+yarn-error.log
